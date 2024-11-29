@@ -14,7 +14,7 @@ This project was developed as part of the Android Club recruitment task. It cons
 ## **Files in Repository**
 - **`README.md`**: This file describing the project.
 - **`Consumer Churn Prediction.pdf`**: PDF file answering all questions for Task 1.
-- **`p1.ipynb`**: Python code implementing Task 2 for customer segmentation.
+- **`customer-churn-streamlit-app.py**: Python code implementing Task 2 for customer segmentation.
 - **`requirements.txt`**: Python dependencies required for Task 2.
 
 ---
