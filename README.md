@@ -6,7 +6,7 @@ This project was developed as part of the Android Club recruitment task. It cons
 - Answers to all questions related to Task 1 are provided in a PDF file named **`Consumer Churn Prediction.pdf`** included in this repository.
 
 ### **Task 2: Machine Learning Task**
-- Python code for Task 2 is provided in the file **`p1.ipynb`**.
+- Python code for Task 2 is provided in the file **`customer-churn-streamlit-app.py**.
 - The task involves customer segmentation using machine learning techniques, clustering algorithms, and data analysis.
 
 ---
