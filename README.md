@@ -24,12 +24,5 @@ This project was developed as part of the Android Club recruitment task. It cons
 **Personal Email**: [asbochare2005@gmail.com](mailto:asbochare2005@gmail.com)  
 **Official Email**: [bochare.24bhi10006@vitbhopal.ac.in](mailto:bochare.24bhi10006@vitbhopal.ac.in)
 
----
 
-## **Steps to Use the Repository**
-
-### **1. Clone the Repository**
-Clone this repository to your local machine using:
-```bash
-git clone https://github.com/<your-github-username>/VITb-android-club-task.git
 
